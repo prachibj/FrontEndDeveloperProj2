@@ -1,0 +1,21 @@
+body {
+    font-family: "Verdana", Helvetica, sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
+}
+
+.text-featured {
+    color:#7d97ad;
+}
+
+.font-thin {
+    font-weight: 100;
+}
+
+.title-big {
+    font-size: 60px;
+}
+
+.logo {
+    margin-top: 20px;
+}
